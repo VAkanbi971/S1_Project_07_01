@@ -15,7 +15,7 @@
 */
 
 
-
+/* This makes the nav footer and article invisible to the viewer. */
 /* Hidden Objects */
 nav,
 footer,
@@ -23,6 +23,7 @@ article {
     display: none;
 }
 
+/* This sets the margin and width for the element with an id of #sheet and classes size. */
 /* Comic Book Sheet Styles */
 section#sheet {
     width: 6in;
